@@ -1,6 +1,11 @@
-﻿Free Download Source Code "Online Bike Rental Management System"
+DEVELOPED BY:
+KULDEEP KUMAR RAJU K
+PANDU KUMAR A N
+NAGENDRA BHARADWAJ D G
+MANOJ V S
 
-FIRST Download
+
+to check out the website:
 
 1.XAMPP
 
